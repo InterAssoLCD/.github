@@ -10,7 +10,7 @@ L'ensemble des services proposées seront **Open Source** et disponibles sur ce 
 
 ## Projets
 
-La liste complètes des projets se trouve sur cette page : [projets.md](./projets.md)
+La liste complètes des projets se trouve sur cette page : [projets.md](https://github.com/InterAssoLCD/.github/blob/main/profile/projets.md)
 
 Chaque projet respectera les consignes suivantes :
 
