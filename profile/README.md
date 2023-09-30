@@ -1,4 +1,4 @@
-# **L**annion **C**lub **D**éveloppement 
+# **L**annion **C**lub **D**éveloppement
 
 LCD (*Lannion club développement*) est un club de développement situé à l'IUT de Lannion et sous la tutelle de l'InterAsso.
 
@@ -12,9 +12,9 @@ L'ensemble des services proposées seront **Open Source** et disponibles sur ce 
 
 La liste complètes des projets se trouve sur cette page : [projets.md](./projets.md)
 
-Chaque projet respectera les consignes suivantes : 
+Chaque projet respectera les consignes suivantes :
 
-- Publication du code sur un dépot git
+- Publication du code sur un dépôt git
 - Documentation complète du projet
   - Algorithmes
   - Matériel utilisé
